@@ -1,0 +1,4 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.example.menusemroot'; compileSdk 35
+    defaultConfig { applicationId 'com.example.menusemroot'; minSdk 26; targetSdk 35; versionCode 5; versionName '1.5' }
+}
